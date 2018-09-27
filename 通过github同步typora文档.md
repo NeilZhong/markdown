@@ -1,3 +1,0 @@
-# 通过github同步typora文档
-
-typora不支持跨平台同步，网上有人提出用git来实现同步，于是在github上建立新的repository，这是测试。
